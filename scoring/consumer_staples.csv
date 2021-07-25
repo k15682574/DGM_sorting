@@ -1,0 +1,66 @@
+,EPS,Free Cash Flow,ROE,IC,Net Margin,Dividend,score
+ADM,No,No,No,> 4,Growing,Yes,2
+ALCO,No,No,No,> 4,>20%,Yes,2.5
+BF.A,Yes,Yes,Yes ,>  10,>20%,Yes,6
+BF.B,Yes,Yes,Yes ,>  10,>20%,Yes,6
+BG,No,No,No,>  10,Growing,Yes,2.5
+BGS,Yes,No,No,No,No,Yes,2
+BJ,No,No,No,> 4,Growing,No,1
+CHD,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+CLX,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+CENT,Yes,No,No,> 4,Growing,No,2
+CENTA,Yes,No,No,> 4,Growing,No,2
+COST,Yes,Yes,Yes ,>  10,Growing,Yes,5.5
+CHEF,No,No,No,No,No,No,0
+HRL,Yes,Yes,Yes ,>  10,Growing,Yes,5.5
+HSY,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+LANC,Yes,Yes,Yes ,No Dept,>10%,Yes,5.5
+PEP,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+COTY,No,No,No,No,No,No,0
+DAR,Yes,No,No,> 4,Growing,No,2
+WDFC,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+GIS,Yes,Yes,Yes ,> 4,>10%,Yes,5
+MKC,Yes,Yes,Yes ,> 4,>10%,Yes,5
+MKC.V,Yes,Yes,Yes ,> 4,>10%,Yes,5
+MNST,Yes,Yes,Yes ,No Dept,>20%,No,5
+PM,No,Yes,Yes ,>  10,>20%,Yes,5
+TSN,Yes,Yes,Yes ,> 4,Growing,Yes,5
+CASY,Yes,No,Yes ,No Dept,Growing,Yes,4.5
+CL,No,Yes,Yes ,No Dept,>10%,Yes,4.5
+FIZZ,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+K,Yes,Yes,Yes ,> 4,No,Yes,4.5
+LMNR,No,No,No,No,No,Yes,1
+KMB,No,Yes,Yes ,>  10,>10%,Yes,4.5
+KO,No,Yes,Yes ,> 4,>20%,Yes,4.5
+MED,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+MGPI,Yes,No,Yes ,>  10,>10%,Yes,4.5
+PG,No,Yes,Yes ,>  10,>10%,Yes,4.5
+NATR,No,No,No,No Dept,Growing,No,1.5
+NGVC,Yes,No,No,>  10,Growing,No,2.5
+UL,No,Yes,Yes ,>  10,>10%,Yes,4.5
+USNA,Yes,Yes,Yes ,>  10,>10%,No,4.5
+WMK,Yes,Yes,No,No Dept,Growing,Yes,4.5
+WMT,Yes,Yes,Yes ,> 4,No,Yes,4.5
+PFGC,No,No,No,No,No,No,0
+NUS,Yes,No,Yes ,No Dept,No,Yes,4
+SJM,Yes,Yes,No,> 4,>10%,Yes,4
+REYN,No,No,No,>  10,>10%,No,1.5
+STZ,Yes,Yes,Yes ,> 4,>10%,No,4
+SENEB,Yes,No,No,>  10,Growing,No,2.5
+STZ.B,Yes,Yes,Yes ,> 4,>10%,No,4
+IMKTA,Yes,No,No,>  10,Growing,Yes,3.5
+SMPL,No,No,No,No,No,No,0
+JBSS,Yes,No,Yes ,>  10,Growing,No,3.5
+LFVN,Yes,Yes,No,>  10,Growing,No,3.5
+OBCI,Yes,No,Yes ,>  10,>10%,No,3.5
+THS,No,Yes,No,No,No,No,1
+TPB,No,No,No,No,Growing,No,0.5
+ODC,Yes,No,No,>  10,Growing,Yes,3.5
+SAM,Yes,No,Yes ,No Dept,>10%,No,3.5
+SFM,Yes,Yes,No,>  10,Growing,No,3.5
+VGR,No,Yes,No,No,No,Yes,2
+VLGEA,Yes,No,No,> 4,No,Yes,2.5
+WBA,No,Yes,No,No,No,Yes,2
+CAG,No,Yes,No,> 4,>10%,Yes,3
+COKE,Yes,No,No,> 4,Growing,Yes,3
+SYY,No,Yes,Yes ,No,No,Yes,3

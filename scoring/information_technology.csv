@@ -1,0 +1,143 @@
+,EPS,Free Cash Flow,ROE,IC,Net Margin,Dividend,score
+AMAT,Yes,Yes,Yes ,>  10,>20%,Yes,6
+CSCO,Yes,Yes,Yes ,>  10,>20%,Yes,6
+INTC,Yes,Yes,Yes ,>  10,>20%,Yes,6
+MA,Yes,Yes,Yes ,>  10,>20%,Yes,6
+MSFT,Yes,Yes,Yes ,>  10,>20%,Yes,6
+PAYX,Yes,Yes,Yes ,>  10,>20%,Yes,6
+QCOM,Yes,Yes,Yes ,>  10,>20%,Yes,6
+TXN,Yes,Yes,Yes ,>  10,>20%,Yes,6
+V,Yes,Yes,Yes ,>  10,>20%,Yes,6
+ACN,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+ADI,Yes,Yes,Yes ,> 4,>20%,Yes,5.5
+ADP,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+APH,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+BMI,Yes,Yes,Yes ,No Dept,>10%,Yes,5.5
+BR,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+INFY,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+JKHY,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+KLAC,Yes,Yes,Yes ,> 4,>20%,Yes,5.5
+MKSI,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+NATI,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+ORCL,Yes,Yes,Yes ,> 4,>20%,Yes,5.5
+POWI,Yes,Yes,Yes ,No Dept,>10%,Yes,5.5
+AAPL,Yes,Yes,Yes ,>  10,>20%,No,5
+ADBE,Yes,Yes,Yes ,>  10,>20%,No,5
+ANET,Yes,Yes,Yes ,No Dept,>20%,No,5
+ANSS,Yes,Yes,Yes ,>  10,>20%,No,5
+ASML,No,Yes,Yes ,No Dept,>20%,Yes,5
+AZPN,Yes,Yes,Yes ,>  10,>20%,No,5
+CDNS,Yes,Yes,Yes ,>  10,>20%,No,5
+INTU,Yes,Yes,Yes ,>  10,>20%,No,5
+LRCX,Yes,Yes,Yes ,>  10,>20%,No,5
+MMS,Yes,Yes,Yes ,>  10,No,Yes,5
+MXIM,No,Yes,Yes ,>  10,>20%,Yes,5
+NVDA,Yes,Yes,Yes ,>  10,>20%,No,5
+QLYS,Yes,Yes,Yes ,No Dept,>20%,No,5
+SWKS,Yes,Yes,Yes ,No Dept,>20%,No,5
+TER,Yes,Yes,Yes ,>  10,>20%,No,5
+TSM,No,Yes,Yes ,>  10,>20%,Yes,5
+UI,Yes,Yes,Yes ,>  10,>20%,No,5
+AVGO,Yes,Yes,Yes ,No,>10%,Yes,4.5
+DOX,Yes,Yes,Yes ,>  10,>10%,No,4.5
+EPAM,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+ERIC,Yes,Yes,No,>  10,Growing,Yes,4.5
+FLT,Yes,Yes,Yes ,> 4,>20%,No,4.5
+MEI,Yes,No,Yes ,>  10,>10%,Yes,4.5
+MPWR,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+NSSC,Yes,Yes,Yes ,No Dept,Growing,No,4.5
+SAP,No,Yes,Yes ,>  10,>10%,Yes,4.5
+TYL,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+UMC,Yes,Yes,No,>  10,>10%,Yes,4.5
+VMW,Yes,Yes,Yes ,>  10,>10%,No,4.5
+VRSN,Yes,Yes,Yes ,> 4,>20%,No,4.5
+WIT,No,Yes,Yes ,>  10,>10%,Yes,4.5
+WNS,Yes,Yes,Yes ,>  10,>10%,No,4.5
+AKAM,Yes,Yes,Yes ,> 4,>10%,No,4
+CCMP,Yes,Yes,Yes ,> 4,>10%,No,4
+CLFD,Yes,Yes,Yes ,No Dept,No,No,4
+CTXS,Yes,Yes,Yes ,> 4,>10%,No,4
+ENTG,Yes,Yes,Yes ,> 4,>10%,No,4
+EXLS,Yes,Yes,Yes ,>  10,No,No,4
+FICO,Yes,Yes,Yes ,> 4,>10%,No,4
+GNSS,Yes,No,Yes ,No Dept,>20%,No,4
+INS,Yes,No,Yes ,No Dept,>20%,No,4
+OLED,Yes,No,Yes ,No Dept,>20%,No,4
+STX,No,Yes,Yes ,> 4,Growing,Yes,4
+WU,No,Yes,Yes ,> 4,>10%,Yes,4
+CNXN,Yes,No,Yes ,>  10,Growing,No,3.5
+CRM,Yes,Yes,No,No Dept,>10%,No,3.5
+CTS,No,Yes,No,>  10,Growing,Yes,3.5
+DLB,No,Yes,Yes ,No Dept,>10%,No,3.5
+EVTC,Yes,Yes,No,> 4,>20%,No,3.5
+FTNT,Yes,Yes,No,No Dept,>10%,No,3.5
+G,Yes,Yes,Yes ,> 4,No,No,3.5
+ISDR,Yes,No,Yes ,No Dept,>10%,No,3.5
+JCOM,Yes,Yes,Yes ,No,>10%,No,3.5
+KEYS,No,Yes,Yes ,>  10,>10%,No,3.5
+PAYC,Yes,No,Yes ,No Dept,>10%,No,3.5
+PLUS,Yes,No,Yes ,>  10,Growing,No,3.5
+PRFT,Yes,Yes,No,No Dept,Growing,No,3.5
+SIMO,No,Yes,Yes ,No Dept,>10%,No,3.5
+SNPS,Yes,Yes,No,>  10,>10%,No,3.5
+SPSC,Yes,Yes,No,No Dept,>10%,No,3.5
+STM,Yes,No,No,>  10,>10%,Yes,3.5
+BRKS,No,No,Yes ,>  10,No,Yes,3
+CDW,Yes,Yes,No,> 4,Growing,No,3
+MSI,No,No,Yes ,> 4,>10%,Yes,3
+SSNC,Yes,Yes,No,> 4,>10%,No,3
+TRMB,Yes,Yes,No,> 4,>10%,No,3
+TTEC,Yes,Yes,No,>  10,No,No,3
+ZBRA,Yes,No,Yes ,> 4,>10%,No,3
+BKI,No,No,Yes ,> 4,>20%,No,2.5
+CIEN,Yes,No,No,>  10,>10%,No,2.5
+FORM,Yes,No,No,>  10,>10%,No,2.5
+GLOB,Yes,No,Yes ,> 4,No,No,2.5
+LPL,No,Yes,No,No,Growing,Yes,2.5
+MIXT,No,No,Yes ,No Dept,>10%,No,2.5
+NLOK,No,No,Yes ,> 4,>20%,No,2.5
+NTAP,No,Yes,No,>  10,>10%,No,2.5
+PLXS,Yes,Yes,No,> 4,No,No,2.5
+AMKR,Yes,No,No,> 4,Growing,No,2
+BDC,No,Yes,No,No,No,Yes,2
+CXDO,No,No,No,>  10,>20%,No,2
+DIOD,Yes,No,No,>  10,No,No,2
+DQ,Yes,No,No,> 4,>10%,No,2
+IT,Yes,Yes,No,No,No,No,2
+NSIT,Yes,No,No,> 4,Growing,No,2
+NTIP,No,No,Yes ,No Dept,No,No,2
+OSIS,Yes,No,No,> 4,Growing,No,2
+PAGS,No,No,No,>  10,>20%,No,2
+PAYS,No,No,Yes ,No Dept,No,No,2
+RAMP,No,No,Yes ,No Dept,No,No,2
+SNX,Yes,No,No,> 4,Growing,No,2
+VG,No,Yes,Yes ,No,No,No,2
+ALRM,No,No,No,>  10,>10%,No,1.5
+ARW,Yes,No,No,> 4,No,No,1.5
+CPSH,No,No,No,No Dept,Growing,No,1.5
+DXC,Yes,No,No,No,Growing,No,1.5
+IMMR,No,No,No,No Dept,>10%,No,1.5
+PYPL,No,No,No,>  10,>10%,No,1.5
+QRVO,No,No,No,>  10,>10%,No,1.5
+SEDG,No,No,No,>  10,Growing,No,1.5
+SMSI,No,No,No,No Dept,Growing,No,1.5
+TTMI,Yes,No,No,No,Growing,No,1.5
+ASYS,No,No,No,No Dept,No,No,1
+CTG,No,No,No,>  10,No,No,1
+CYBR,No,Yes,No,No,No,No,1
+DAIO,No,No,No,No Dept,No,No,1
+DMRC,No,No,No,No Dept,No,No,1
+EEFT,No,Yes,No,No,No,No,1
+GWRE,No,Yes,No,No,No,No,1
+INTZ,No,No,No,No Dept,No,No,1
+KOPN,No,No,No,No Dept,No,No,1
+NCR,Yes,No,No,No,No,No,1
+NTCT,No,Yes,No,No,No,No,1
+ZIXI,No,Yes,No,No,No,No,1
+NTWK,No,No,No,> 4,No,No,0.5
+CVV,No,No,No,No,No,No,0
+GVP,No,No,No,No,No,No,0
+IIVI,No,No,No,No,No,No,0
+MRVL,No,No,No,No,No,No,0
+RMBS,No,No,No,No,No,No,0
+SGMA,No,No,No,No,No,No,0
