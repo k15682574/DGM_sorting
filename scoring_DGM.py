@@ -196,38 +196,6 @@ def scoring_S(beta):
 
     return 0
 
-def scoring_total(datalist):
-    score = 0
-    e = scoring_E(datalist)
-    d = scoring_D(datalist)
-    f = scoring_F(datalist)
-    r = scoring_R(datalist)
-    i = scoring_I(datalist)
-    n = scoring_N(datalist)
-    if e == "Yes":
-        score += 1
-
-    if d == "Yes":
-        score += 1
-
-    if f == "Yes":
-        score += 1
-    
-    if r == "Yes ":
-        score += 1
-
-    if i == "No Dept" or i == ">  10":
-        score += 1
-    elif i == "> 4":
-        score += 0.5
-
-    if n == ">20%":
-        score += 1
-    elif n == ">10%" or n == "Growing":
-        score += 0.5
-        
-    return score
-
 def scoring(category):
     df_in = pd.read_csv('./stock_list/' + category + '.csv', index_col='index')
     print(df_in.info())
