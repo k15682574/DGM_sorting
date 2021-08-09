@@ -1,0 +1,255 @@
+,EPS,Free Cash Flow,ROE,IC,Net Margin,Dividend,score
+BAX,No,Yes,Yes ,> 4,No,Yes,3.5
+BOH,Yes,Yes,Yes ,No Dept,>20%,Yes,6.0
+COG,Yes,No,No,> 4,>10%,Yes,3.0
+CW,Yes,Yes,No,> 4,Growing,Yes,4.0
+EIG,Yes,No,No,>  10,>20%,Yes,4.0
+FCAP,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FCCY,Yes,No,No,No Dept,>20%,No,3.0
+FCF,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FFNW,Yes,Yes,No,No Dept,>20%,No,4.0
+FMNB,Yes,Yes,No,No Dept,>20%,Yes,5.0
+G,Yes,Yes,Yes ,> 4,No,No,3.5
+HTH,Yes,No,No,No Dept,>20%,No,3.0
+IROQ,Yes,No,No,No Dept,>20%,No,3.0
+JEF,No,No,No,No Dept,>10%,Yes,2.5
+KNSL,No,No,No,No Dept,>20%,No,2.0
+KSU,Yes,No,No,No,No,No,1.0
+LSBK,Yes,Yes,No,No Dept,>20%,Yes,5.0
+LW,No,No,Yes ,> 4,No,No,1.5
+MDC,Yes,No,No,No Dept,>10%,No,2.5
+MGP,No,No,No,No,>20%,No,1.0
+MRTN,Yes,No,Yes ,No Dept,Growing,Yes,4.5
+MSBI,No,No,No,No Dept,>10%,No,1.5
+MVBF,Yes,No,No,No Dept,>20%,Yes,4.0
+NI,No,No,No,No,No,Yes,1.0
+NOA,No,Yes,No,No,Growing,Yes,2.5
+NSC,Yes,Yes,Yes ,> 4,>20%,Yes,5.5
+ODFL,Yes,No,Yes ,>  10,>10%,No,3.5
+OLED,Yes,No,Yes ,No Dept,>20%,No,4.0
+OTTW,Yes,Yes,No,No Dept,>10%,No,3.5
+PFIS,Yes,Yes,No,No Dept,>20%,Yes,5.0
+PRGS,Yes,No,No,> 4,>10%,No,2.0
+RACE,No,No,Yes ,>  10,>20%,No,3.0
+RNST,Yes,Yes,No,No Dept,>10%,Yes,4.5
+SCHW,Yes,Yes,No,No Dept,>20%,Yes,5.0
+SHBI,Yes,Yes,No,No Dept,>20%,No,4.0
+SIMO,No,Yes,Yes ,No Dept,>10%,No,3.5
+SIRI,No,Yes,Yes ,No,No,No,2.0
+SSNC,Yes,Yes,No,> 4,>10%,No,3.0
+SUI,Yes,No,No,No,>10%,Yes,2.5
+TAIT,Yes,No,No,No Dept,>20%,No,3.0
+TRTN,No,No,No,No Dept,>20%,No,2.0
+VSH,No,Yes,No,> 4,No,No,1.5
+VVV,No,No,Yes ,> 4,>10%,No,2.0
+WLTW,Yes,Yes,No,> 4,>10%,Yes,4.0
+AMNB,Yes,Yes,No,No Dept,>20%,Yes,5.0
+BNS,Yes,Yes,No,No Dept,>20%,Yes,5.0
+BPOP,Yes,Yes,No,No Dept,>20%,No,4.0
+BWXT,Yes,No,Yes ,>  10,>10%,No,3.5
+C,Yes,No,No,No Dept,>20%,Yes,4.0
+CABO,No,No,No,> 4,>20%,No,1.5
+CCMP,Yes,Yes,Yes ,No,No,No,3.0
+CFG,Yes,No,No,No Dept,>20%,No,3.0
+CGNX,Yes,Yes,Yes ,No Dept,>20%,No,5.0
+CHCT,No,No,No,No,>20%,No,1.0
+CNQ,No,Yes,No,> 4,>10%,Yes,3.0
+CP,No,Yes,Yes ,>  10,>20%,Yes,5.0
+CSWC,No,No,Yes ,No Dept,>20%,Yes,4.0
+DLB,No,Yes,Yes ,>  10,>20%,No,4.0
+EBSB,Yes,No,No,No Dept,>20%,No,3.0
+EFSC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+EVA,No,No,No,No,Growing,No,0.5
+FCFS,Yes,Yes,Yes ,> 4,No,No,3.5
+FCPT,No,No,No,No,>20%,No,1.0
+FGBI,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FMS,No,Yes,No,> 4,No,Yes,2.5
+FNCB,Yes,No,No,No Dept,>20%,No,3.0
+FSV,No,Yes,No,>  10,Growing,No,2.5
+FTS,No,Yes,No,No,>10%,Yes,2.5
+FWRD,No,Yes,Yes ,>  10,No,Yes,4.0
+GBX,Yes,No,No,No,No,No,1.0
+GFED,Yes,Yes,No,No Dept,>10%,No,3.5
+GILD,No,Yes,Yes ,> 4,>10%,No,3.0
+HLI,No,No,Yes ,No Dept,>20%,No,3.0
+HOFT,No,No,No,>  10,Growing,Yes,2.5
+IMO,No,Yes,No,No,No,Yes,2.0
+KBAL,Yes,No,No,>  10,Growing,Yes,3.5
+KRNY,Yes,Yes,No,No Dept,>20%,No,4.0
+LCII,Yes,Yes,Yes ,>  10,Growing,No,4.5
+MED,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+MGPI,Yes,No,Yes ,No Dept,>10%,Yes,4.5
+MLM,Yes,Yes,No,> 4,>10%,Yes,4.0
+NBHC,Yes,No,No,No Dept,>20%,No,3.0
+NSA,No,No,No,No,>10%,No,0.5
+NXRT,No,No,No,No,Growing,No,0.5
+ORRF,Yes,Yes,No,No Dept,>20%,No,4.0
+PEBO,Yes,Yes,No,No Dept,>20%,Yes,5.0
+PUB,No,No,No,No,No,No,0.0
+RELX,No,Yes,Yes ,>  10,>10%,Yes,4.5
+RMAX,No,Yes,No,> 4,No,No,1.5
+RVSB,Yes,Yes,No,No Dept,>10%,No,3.5
+RY,Yes,Yes,No,No Dept,>20%,Yes,5.0
+SAH,No,No,No,> 4,Growing,Yes,2.0
+SAP,No,Yes,Yes ,>  10,>20%,Yes,5.0
+SHLX,No,No,Yes ,> 4,>20%,No,2.5
+SLF,Yes,Yes,No,>  10,Growing,Yes,4.5
+SMMF,Yes,Yes,No,No Dept,>20%,No,4.0
+STN,Yes,Yes,No,> 4,Growing,Yes,4.0
+STZ,Yes,Yes,Yes ,> 4,>10%,No,4.0
+STZ.B,Yes,Yes,Yes ,> 4,>10%,No,4.0
+TD,Yes,Yes,No,No Dept,>20%,Yes,5.0
+TFII,Yes,Yes,Yes ,>  10,Growing,Yes,5.5
+TFSL,Yes,Yes,No,No Dept,>20%,No,4.0
+TRP,No,Yes,No,No,>10%,Yes,2.5
+WINA,Yes,No,Yes ,>  10,>20%,Yes,5.0
+WLKP,No,No,Yes ,>  10,No,No,2.0
+ALG,Yes,No,Yes ,> 4,Growing,Yes,4.0
+BAC,Yes,No,No,No Dept,>20%,Yes,4.0
+CTRE,No,No,No,> 4,>20%,No,1.5
+CVBF,Yes,Yes,No,No Dept,>20%,Yes,5.0
+DG,Yes,Yes,Yes ,>  10,Growing,No,4.5
+DHIL,Yes,Yes,Yes ,No Dept,>20%,No,5.0
+DHR,Yes,Yes,No,>  10,>20%,Yes,5.0
+DKS,Yes,Yes,Yes ,>  10,Growing,Yes,5.5
+EHC,Yes,Yes,No,> 4,No,No,2.5
+EQIX,Yes,No,No,No,No,No,1.0
+ETR,No,No,No,No,>10%,Yes,1.5
+FDBC,Yes,No,No,No Dept,>20%,Yes,4.0
+FDX,Yes,No,No,> 4,Growing,Yes,3.0
+FRAF,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FXNC,Yes,Yes,No,No Dept,>20%,No,4.0
+GLPI,Yes,Yes,No,No,>20%,No,3.0
+GSBC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+HBCP,Yes,Yes,No,No Dept,>20%,No,4.0
+HTBK,Yes,Yes,No,No Dept,>20%,No,4.0
+HTLF,Yes,Yes,No,No Dept,>20%,Yes,5.0
+IBCP,Yes,Yes,No,No Dept,>20%,No,4.0
+INTC,Yes,Yes,Yes ,>  10,>20%,Yes,6.0
+ISBC,Yes,Yes,No,No Dept,>20%,No,4.0
+ISTR,Yes,No,No,No Dept,>20%,No,3.0
+LAND,No,No,No,No,No,No,0.0
+LOGI,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+LRCX,Yes,Yes,Yes ,>  10,>20%,No,5.0
+LZB,Yes,Yes,Yes ,>  10,No,No,4.0
+MAS,Yes,Yes,Yes ,No,Growing,Yes,4.5
+MCBC,Yes,Yes,No,No Dept,>20%,No,4.0
+MFNC,Yes,No,No,No Dept,>20%,No,3.0
+MS,Yes,No,No,No Dept,>20%,Yes,4.0
+MSCI,Yes,Yes,Yes ,> 4,>20%,No,4.5
+MWA,Yes,No,No,> 4,Growing,Yes,3.0
+NEP,No,No,No,No Dept,>20%,No,2.0
+NEU,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+NNI,Yes,Yes,No,No Dept,>20%,Yes,5.0
+NPO,Yes,No,No,No,No,No,1.0
+OGS,Yes,No,No,> 4,>10%,No,2.0
+PKBK,Yes,Yes,No,No Dept,>20%,No,4.0
+PSXP,Yes,No,Yes ,> 4,>20%,No,3.5
+SFBS,Yes,Yes,Yes ,No Dept,>20%,No,5.0
+SNV,Yes,No,No,No Dept,>20%,Yes,4.0
+STOR,No,No,No,No,>20%,No,1.0
+SWKS,Yes,Yes,Yes ,No Dept,>20%,No,5.0
+TTEC,Yes,Yes,No,>  10,Growing,No,3.5
+TTEK,Yes,Yes,No,>  10,Growing,No,3.5
+UCBI,Yes,Yes,No,No Dept,>20%,No,4.0
+UTL,Yes,No,No,No,Growing,Yes,2.5
+VALU,Yes,No,Yes ,No Dept,>20%,Yes,5.0
+WMS,Yes,Yes,No,>  10,Growing,No,3.5
+WU,No,Yes,Yes ,> 4,>10%,Yes,4.0
+ABT,No,Yes,No,>  10,>10%,Yes,3.5
+ACC,No,No,No,No,No,Yes,1.0
+AEE,Yes,No,No,No,>10%,Yes,2.5
+ALLE,Yes,Yes,Yes ,>  10,>10%,No,4.5
+AVT,No,No,No,No,No,No,0.0
+BANR,Yes,No,No,No Dept,>20%,Yes,4.0
+BFC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+BUSE,Yes,No,No,No Dept,>20%,Yes,4.0
+CCBG,Yes,No,No,No Dept,>10%,No,2.5
+CCI,Yes,Yes,No,No,>10%,No,2.5
+CDW,Yes,Yes,No,> 4,Growing,No,3.0
+CPF,No,Yes,Yes ,No Dept,>20%,No,4.0
+CSGS,Yes,Yes,No,> 4,Growing,No,3.0
+DHI,Yes,No,Yes ,No Dept,>10%,Yes,4.5
+FCCO,Yes,No,No,No Dept,>20%,Yes,4.0
+FIBK,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FMBI,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FRC,Yes,No,No,No Dept,>20%,No,3.0
+FSBW,Yes,No,No,No Dept,>20%,No,3.0
+GCBC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+HCKT,No,Yes,Yes ,>  10,No,No,3.0
+HFBL,Yes,No,No,No Dept,>20%,Yes,4.0
+HNNA,Yes,Yes,Yes ,No Dept,>20%,Yes,6.0
+HURC,No,No,No,No,No,No,0.0
+HVT,Yes,Yes,No,No Dept,Growing,No,3.5
+IBTX,Yes,Yes,No,No Dept,>20%,No,4.0
+ICE,Yes,Yes,No,>  10,>20%,No,4.0
+JOUT,Yes,Yes,Yes ,>  10,>10%,No,4.5
+LKFN,Yes,Yes,No,No Dept,>20%,Yes,5.0
+LLY,Yes,Yes,Yes ,>  10,>20%,Yes,6.0
+LSTR,Yes,Yes,Yes ,>  10,Growing,No,4.5
+NBTB,Yes,Yes,No,No Dept,>20%,Yes,5.0
+OSK,Yes,No,Yes ,>  10,Growing,No,3.5
+OVLY,Yes,Yes,No,No Dept,>20%,No,4.0
+PLD,Yes,No,No,> 4,>20%,Yes,3.5
+QTS,No,No,No,No,No,No,0.0
+RE,Yes,Yes,No,>  10,>10%,Yes,4.5
+REG,No,Yes,No,No,>20%,Yes,3.0
+REXR,No,No,No,No,>20%,No,1.0
+RF,Yes,Yes,No,No Dept,>20%,Yes,5.0
+RMD,Yes,Yes,Yes ,>  10,>10%,No,4.5
+SBFG,Yes,Yes,No,No Dept,>20%,No,4.0
+SCVL,No,No,No,>  10,Growing,No,1.5
+SFBC,Yes,No,No,No Dept,>20%,No,3.0
+SIGI,Yes,Yes,No,>  10,>10%,Yes,4.5
+SSD,Yes,Yes,Yes ,>  10,>10%,Yes,5.5
+STAG,Yes,No,No,No,>20%,Yes,3.0
+STBA,No,Yes,No,No Dept,>20%,Yes,4.0
+UBCP,Yes,Yes,No,No Dept,>20%,Yes,5.0
+UNTY,Yes,No,No,No Dept,>20%,No,3.0
+VMC,Yes,Yes,No,> 4,>10%,Yes,4.0
+WSFS,Yes,Yes,No,No Dept,>20%,Yes,5.0
+WSO,Yes,Yes,Yes ,>  10,Growing,Yes,5.5
+WSO.B,Yes,Yes,Yes ,>  10,Growing,Yes,5.5
+WTFC,Yes,No,No,No Dept,>20%,Yes,4.0
+ZION,Yes,Yes,No,No Dept,>20%,Yes,5.0
+AAPL,Yes,Yes,Yes ,>  10,>20%,No,5.0
+ABBV,Yes,Yes,Yes ,No,>10%,No,3.5
+ABR,Yes,No,No,No Dept,>20%,No,3.0
+AMSF,Yes,Yes,No,No Dept,>20%,No,4.0
+ASB,Yes,Yes,No,No Dept,>20%,Yes,5.0
+AXP,No,Yes,No,No Dept,>10%,Yes,3.5
+BC,Yes,No,Yes ,>  10,>10%,Yes,4.5
+BSRR,Yes,Yes,No,No Dept,>20%,Yes,5.0
+BXS,Yes,Yes,No,No Dept,>20%,Yes,5.0
+CAC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+CLDB,Yes,No,No,No Dept,>20%,No,3.0
+CONE,Yes,No,No,No,No,No,1.0
+DOX,Yes,Yes,Yes ,No Dept,>10%,No,4.5
+DPZ,Yes,Yes,Yes ,> 4,>10%,No,4.0
+EXPO,Yes,Yes,Yes ,No Dept,>20%,No,5.0
+FBHS,Yes,Yes,No,>  10,>10%,No,3.5
+FBIZ,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FCBC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FIX,Yes,Yes,No,>  10,Growing,Yes,4.5
+FNLC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+FR,Yes,No,No,> 4,>20%,No,2.5
+FSFG,Yes,No,No,No Dept,>20%,No,3.0
+GABC,Yes,Yes,No,No Dept,>20%,Yes,5.0
+GS,Yes,No,No,No Dept,>20%,Yes,4.0
+GTY,Yes,No,No,> 4,>20%,Yes,3.5
+HFWA,Yes,Yes,No,No Dept,>20%,Yes,5.0
+HII,Yes,Yes,Yes ,> 4,Growing,No,4.0
+HTA,Yes,Yes,No,No,>10%,No,2.5
+IPG,No,Yes,No,> 4,Growing,Yes,3.0
+ITT,Yes,No,Yes ,No Dept,Growing,Yes,4.5
+MBWM,No,Yes,No,No Dept,>20%,No,3.0
+NDAQ,Yes,Yes,No,>  10,>10%,No,3.5
+NFBK,Yes,Yes,No,No Dept,>20%,Yes,5.0
+NTRS,Yes,No,No,No Dept,>20%,Yes,4.0
+PEBK,Yes,Yes,No,No Dept,>20%,Yes,5.0
+POWI,Yes,Yes,Yes ,No Dept,>10%,Yes,5.5
+RJF,Yes,No,No,No Dept,>10%,Yes,3.5
+SSB,Yes,Yes,No,No Dept,>20%,Yes,5.0
+TCBK,Yes,Yes,No,No Dept,>20%,Yes,5.0
+UNB,Yes,No,No,No Dept,>20%,Yes,4.0
+ZTS,Yes,Yes,Yes ,>  10,>20%,No,5.0

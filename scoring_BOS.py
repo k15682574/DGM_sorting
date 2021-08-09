@@ -14,7 +14,6 @@ def find_index(datalist, key):
 
 def scoring_E(datalist):
     eps = find_index(datalist, "Earnings Per Share USD")
-    rvn = find_index(datalist, "Revenue USD Mil")
     
     if datalist[eps][10] == "":
         return "No"
@@ -22,13 +21,7 @@ def scoring_E(datalist):
     if datalist[eps][1] == "":
         return "No"
 
-    if datalist[rvn][10] == "":
-        return "No"
-
-    if datalist[rvn][1] == "":
-        return "No"
-
-    if float(datalist[eps][10].replace(",", "")) >= float(datalist[eps][1].replace(",", "")) and float(datalist[rvn][10].replace(",", "")) >= float(datalist[rvn][1].replace(",", "")):
+    if float(datalist[eps][10].replace(",", "")) >= float(datalist[eps][1].replace(",", "")):
         return "Yes"
     else:
         return "No"
@@ -74,6 +67,8 @@ def scoring_R(datalist):
         if datalist[de][10] != "":
             if float(datalist[de][10]) < 1:
                 return "Yes "
+        else:
+            return "Yes "
 
     if float(sum(roa_list)) / 10 > 7:
         return "Yes "
@@ -162,7 +157,7 @@ def scoring(category):
 
     for input in df_in['stock']:
         stock = input.replace("/", ".")
-        with open(".\\key_ratios\\{}\\{} Key Ratios.csv".format(category, stock), newline='') as csvfile:
+        with open(".\\key_ratios\\{}\\{} Key Ratios.csv".format(category, stock), newline='',encoding="utf-8") as csvfile:
             rows = csv.reader(csvfile)
             datalist = list(rows)
 
@@ -185,4 +180,4 @@ def scoring(category):
             "score": score
         }
         df_out = pd.DataFrame(data=df_dic, index=ids)
-        df_out.to_csv(".\\scoring\\{}.csv".format(category))
+        df_out.to_csv(".\\scoring_BOS\\{}.csv".format(category))
