@@ -157,7 +157,7 @@ def scoring(category):
 
     for input in df_in['stock']:
         stock = input.replace("/", ".")
-        with open(".\\key_ratios\\{}\\{} Key Ratios.csv".format(category, stock), newline='',encoding="utf-8") as csvfile:
+        with open(".\\key_ratios\\{} Key Ratios.csv".format(stock), newline='',encoding="utf-8") as csvfile:
             rows = csv.reader(csvfile)
             datalist = list(rows)
 

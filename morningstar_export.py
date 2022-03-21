@@ -38,7 +38,7 @@ def export(category):
     for input in df['stock']:
         stock = input.replace("/", ".")
         try:
-            shutil.move('C:\\Users\\User\\Downloads\\{} Key Ratios.csv'.format(stock), 'D:\\BOS\\parsing\\key_ratios\\{}\\{} Key Ratios.csv'.format(category, stock))
+            shutil.move('C:\\Users\\User\\Downloads\\{} Key Ratios.csv'.format(stock), 'D:\\BOS\\parsing\\key_ratios\\{} Key Ratios.csv'.format(stock))
         except:
             print("{} is missing".format(stock))
             continue
