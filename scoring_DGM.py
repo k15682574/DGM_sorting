@@ -487,14 +487,19 @@ def scoring(category):
                 try_cnt += 1
 
         try:
-            # print(f'{input} start')
-            cut = soup.prettify().split("Piotroski F-Score")[1]
-            str = cut.split("</span")[1]
-            # print(f'{input} str {str}')
-            str = str.split("\"float: right;\">")[1].replace("\t", "").replace(" ", "").replace(">", "").replace("<", "").replace("/", "")
-            # print(f'{input} str {str}')
-            PFScore = float(str)
-            # print(f'{input} PFScore is {PFScore}')
+            element = soup.find_all('a', {'href': re.compile("(.*)(Piotroski-F-Score)(.*)")})
+            # print(element)
+            
+            # Extracting the next sibling of parent
+            nextSibling = element[1].find_next_sibling("span")
+            # print(nextSibling)
+
+            # Extracting the next sibling of parent
+            text = nextSibling.getText()
+            # print(text)
+
+            PFScore = int(text.replace("/9", ""))
+            
         except:
             PFScore = 0
 
